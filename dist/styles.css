@@ -4,7 +4,7 @@
 }
 
 .result {
-	margin-top: 1em;
+	margin-top: 2em;
 }
 
 .clear-btn {
@@ -23,12 +23,12 @@
 	--sans: 1em/1.6 system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
 		Droid Sans, Helvetica Neue, Fira Sans, sans-serif;
 	--mono: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, Courier, 'Courier New', monospace;
-	--c1: #0074d9;
+	--c1: #345716;
 	--c2: #eee;
 	--c3: #fff;
 	--c4: #000;
 	--c5: #fff;
-	--m1: 8px;
+	--m1: 10px;
 	--rc: 8px;
 }
 
