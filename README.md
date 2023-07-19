@@ -21,3 +21,7 @@ La estructura de la extensión del navegador fue influenciada por la [extensión
 El concepto detrás del sistema de iconos 'puntos' fue sugerido por la estructura de iconos de la extensión del navegador [Energy Lollipop](https://energylollipop.com/) para las emisiones de California.
 
 Estas lecciones fueron escritas con ♥ ️ por [Jen Looper](https://www.twitter.com/jenlooper)
+
+#### Esta es la evidencia que corresponde al desarrollo del proyecto correspondiente <a href="https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/5-browser-extension/translations/README.es.md">Construyendo una extensión de navegador</a> del curso <a href="https://github.com/microsoft/Web-Dev-For-Beginners">WEB DEVELOPMENT FOR BEGINNERS</a> de Microsoft.
+
+
